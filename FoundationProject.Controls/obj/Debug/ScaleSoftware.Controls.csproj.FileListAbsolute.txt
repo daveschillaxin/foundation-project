@@ -1,5 +1,0 @@
-C:\Users\David\documents\visual studio 2015\Projects\ScaleSoftware\ScaleSoftware.Controls\bin\Debug\ScaleSoftware.Controls.dll
-C:\Users\David\documents\visual studio 2015\Projects\ScaleSoftware\ScaleSoftware.Controls\bin\Debug\ScaleSoftware.Controls.pdb
-C:\Users\David\documents\visual studio 2015\Projects\ScaleSoftware\ScaleSoftware.Controls\obj\Debug\ScaleSoftware.Controls.dll
-C:\Users\David\documents\visual studio 2015\Projects\ScaleSoftware\ScaleSoftware.Controls\obj\Debug\ScaleSoftware.Controls.pdb
-C:\Users\David\documents\visual studio 2015\Projects\ScaleSoftware\ScaleSoftware.Controls\obj\Debug\ScaleSoftware.Controls.csprojResolveAssemblyReference.cache
