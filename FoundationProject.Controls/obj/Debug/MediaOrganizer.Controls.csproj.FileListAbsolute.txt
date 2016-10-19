@@ -1,5 +1,0 @@
-C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\bin\Debug\MediaOrganizer.Controls.dll
-C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\bin\Debug\MediaOrganizer.Controls.pdb
-C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\obj\Debug\MediaOrganizer.Controls.csprojResolveAssemblyReference.cache
-C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\obj\Debug\MediaOrganizer.Controls.dll
-C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\obj\Debug\MediaOrganizer.Controls.pdb
