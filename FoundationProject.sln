@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoundationProject.Database", "FoundationProject.Database\FoundationProject.Database.csproj", "{25ADBF75-E8C9-49A4-A9B3-F7549C3F101F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoundationProject.Reporting", "FoundationProject.Reporting\FoundationProject.Reporting.csproj", "{FA536E0D-2965-4F04-96D3-F02F8031D2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoundationProject.Controls", "FoundationProject.Controls\FoundationProject.Controls.csproj", "{F68EF2AC-0631-400F-98F9-C4C437EBE5FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25ADBF75-E8C9-49A4-A9B3-F7549C3F101F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25ADBF75-E8C9-49A4-A9B3-F7549C3F101F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25ADBF75-E8C9-49A4-A9B3-F7549C3F101F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25ADBF75-E8C9-49A4-A9B3-F7549C3F101F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA536E0D-2965-4F04-96D3-F02F8031D2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA536E0D-2965-4F04-96D3-F02F8031D2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA536E0D-2965-4F04-96D3-F02F8031D2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA536E0D-2965-4F04-96D3-F02F8031D2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68EF2AC-0631-400F-98F9-C4C437EBE5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68EF2AC-0631-400F-98F9-C4C437EBE5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68EF2AC-0631-400F-98F9-C4C437EBE5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68EF2AC-0631-400F-98F9-C4C437EBE5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_StartDate = 2000/1/1
+	EndGlobalSection
+EndGlobal
