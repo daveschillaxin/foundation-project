@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\bin\Release\FoundationProject.Controls.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\bin\Release\FoundationProject.Controls.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\obj\Release\FoundationProject.Controls.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\obj\Release\FoundationProject.Controls.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\FoundationProject\FoundationProject.Controls\bin\Release\FoundationProject.Controls.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\FoundationProject\FoundationProject.Controls\bin\Release\FoundationProject.Controls.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\FoundationProject\FoundationProject.Controls\obj\Release\FoundationProject.Controls.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\FoundationProject\FoundationProject.Controls\obj\Release\FoundationProject.Controls.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\FoundationProject\FoundationProject.Controls\obj\Release\FoundationProject.Controls.pdb

@@ -1,0 +1,4 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\bin\Debug\FoundationProject.Controls.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\bin\Debug\FoundationProject.Controls.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\obj\Debug\FoundationProject.Controls.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\MediaOrganizer\ScaleSoftware.Controls\obj\Debug\FoundationProject.Controls.pdb
